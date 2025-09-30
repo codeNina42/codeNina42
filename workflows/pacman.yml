@@ -1,4 +1,4 @@
-# .github/workflows/pacman.yml
+ # .github/workflows/pacman.yml
 name: Generate Pacman Graph
 on:
   schedule:
