@@ -1,1 +1,24 @@
+# .github/workflows/pacman.yml
+name: Generate Pacman Graph
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Pacman graph
+        uses: yoshi389111/github-profile-pacman@main
+        with:
+          user_name: codenina42
+      - name: Commit files
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "codenina42"
+          git add output
+          git commit -m "Update Pacman graph"
+          git push
 
