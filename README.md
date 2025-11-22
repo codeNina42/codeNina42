@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,PHP,MYSQL,PYTHON,C#,JAVA,ASSEMBLEY,UNITY,GODOT,UNREAL**
+- 🌱 I’m currently learning **python,HTML,CSS,JAVASCRIPT,PHP,MYSQL,PYTHON,C#,JAVA,ASSEMBLEY,UNITY,GODOT,UNREAL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codeNina42](https://github.com/codeNina42)
 
