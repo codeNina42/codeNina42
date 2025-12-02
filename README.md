@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Ahsan Seyam</h1>
-<h3 align="center">A passionate Web developer and Game developer from Bangladesh</h3>
+<h3 align="center">A passionate python and Game developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenina42&label=Profile%20views&color=0e75b6&style=flat" alt="codenina42" /> </p>
 
